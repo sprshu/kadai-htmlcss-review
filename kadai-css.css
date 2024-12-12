@@ -13,14 +13,12 @@ body{
 
 #main{
     background-color: #ccffcc;
-    padding: 20px;
     width: 700px;
     box-sizing: border-box;
 }
 
 #menu{
     background-color: #ccccff;
-    padding: 20px;
     width: 300px;
     box-sizing: border-box;
 }
@@ -33,4 +31,5 @@ footer{
 
 #wrapper {
     display: flex;
+    width: 1000px;
 }
